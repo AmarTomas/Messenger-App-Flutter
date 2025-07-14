@@ -1,16 +1,22 @@
-# messenger_app_flutter
+# Flutter Messenger App
 
-A new Flutter project.
+هذا هو مشروع تطبيق **Messenger** تم تطويره باستخدام **Flutter**. يهدف التطبيق إلى تقديم تجربة دردشة سلسة وسريعة للمستخدمين. حالياً، المشروع في مرحلة أولية حيث يتم تجهيز تصميم واجهة الدردشة والرسائل النصية.
 
-## Getting Started
+## نظرة عامة
 
-This project is a starting point for a Flutter application.
+تطبيق Messenger يركز على توفير واجهة مستخدم جذابة وسهلة الاستخدام، مع القدرة على إرسال واستقبال الرسائل النصية. نحن نعمل حاليًا على تصميم واجهة الدردشة لضمان تجربة مستخدم مثالية.
 
-A few resources to get you started if this is your first Flutter project:
+## الميزات المخطط لها
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- واجهة دردشة جذابة
+- دعم لإرسال الرسائل النصية
+- إشعارات لحظية
+- إمكانية تخصيص المحادثات
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## كيفية التثبيت
+
+لتثبيت التطبيق، يمكنك اتباع الخطوات التالية:
+
+1. استنساخ المستودع:
+   ```bash
+   git clone https://github.com/AmarTomas/Messenger-App-Flutter.git
