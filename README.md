@@ -1,7 +1,7 @@
 # Flutter Messenger App
 ## لقطات الشاشة
 
-(https://github.com/user-attachments/assets/939f8512-b821-4095-9d2b-67849b29ecc8)
+[!['AmarTomas'](https://github.com/user-attachments/assets/939f8512-b821-4095-9d2b-67849b29ecc8)]
 هذا هو مشروع تطبيق **Messenger** تم تطويره باستخدام **Flutter**. يهدف التطبيق إلى تقديم تجربة دردشة سلسة وسريعة للمستخدمين. حالياً، المشروع في مرحلة أولية حيث يتم تجهيز تصميم واجهة الدردشة والرسائل النصية.
 
 ## نظرة عامة
